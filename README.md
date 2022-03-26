@@ -22,8 +22,11 @@ The main problem with approach work/reward is not very much and no one can do it
 2) Platform will show an ad to end user in order to view this content.
 3) All ad revenue will go to creator.
 
-Happy creators and consumer!!!!!
+Happy creators and consumer. :boom::boom::boom:
 
 # Visual
 
 ![Flow](https://user-images.githubusercontent.com/1858630/160247907-26300223-4e6f-4ab5-9e7c-670f0a472953.jpg)
+
+
+
