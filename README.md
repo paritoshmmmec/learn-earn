@@ -24,5 +24,6 @@ The main problem with approach work/reward is not very much and no one can do it
 
 Happy creators and consumer!!!!!
 
-# FAQ
-1) Is the advertise 
+# Visual
+
+![Flow](https://user-images.githubusercontent.com/1858630/160247907-26300223-4e6f-4ab5-9e7c-670f0a472953.jpg)
